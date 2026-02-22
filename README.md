@@ -15,7 +15,7 @@ This lab strengthened my understanding of network reconnaissance, packet analysi
 ![Lab 1 Network Topology](<img width="1219" height="948" alt="Screenshot 2026-02-21 232233" src="https://github.com/user-attachments/assets/35c9351e-eb7e-490c-83d9-ad8c8a2c7c8c" />)
 
 
-📄 **[Download Full Lab Report (PDF)]()**
+📄 **[Download Full Lab Report (PDF)]([Assessing the Network with Common Security Tools (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465056/Assessing.the.Network.with.Common.Security.Tools.4e.-.Shoumya.Rayamajhi.pdf))**
 
 ---
 
