@@ -15,7 +15,7 @@ This lab strengthened my understanding of network reconnaissance, packet analysi
 ![Lab 1 Network Topology](Lab1.png)
 
 
-📄 **[Download Full Lab Report (PDF)]([Assessing the Network with Common Security Tools (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465056/Assessing.the.Network.with.Common.Security.Tools.4e.-.Shoumya.Rayamajhi.pdf))**
+📄 **[Download Full Lab Report (PDF)]([Assessing the Network with Common Security Tools (4e) - Shoumya Rayamajhi.pdf](Lab1.pdf)**
 
 ---
 
@@ -28,7 +28,7 @@ The lab focused on detecting attack behavior and implementing defensive measures
 ### Virtual Lab Topology
 ![Lab 2 Network Topology](Lab2.png)
 
-📄 **[Download Full Lab Report (PDF)]([Defending the Network from a Simulated Attack (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465059/Defending.the.Network.from.a.Simulated.Attack.4e.-.Shoumya.Rayamajhi.pdf))**
+📄 **[Download Full Lab Report (PDF)]([Defending the Network from a Simulated Attack (4e) - Shoumya Rayamajhi.pdf](Lab2.pdf)**
 
 ---
 
@@ -42,7 +42,7 @@ This lab strengthened my understanding of network architecture and secure segmen
 ![Lab 3 Network Topology](Lab3.png)
 
 
-📄 **[Download Full Lab Report (PDF)]([Designing a Secure Network Topology (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465063/Designing.a.Secure.Network.Topology.4e.-.Shoumya.Rayamajhi.pdf))**
+📄 **[Download Full Lab Report (PDF)]([Designing a Secure Network Topology (4e) - Shoumya Rayamajhi.pdf](Lab3.pdf)**
 
 ---
 
@@ -50,7 +50,7 @@ This lab strengthened my understanding of network architecture and secure segmen
 
 Conducted a structured internal security audit using a standardized assessment template to evaluate policies, configurations, and basic security controls. Identified potential risks and provided remediation recommendations to improve overall security posture.
 
-📄 **[Download Full Audit Report (PDF)]([Controls and compliance checklist(put in resume).pdf](https://github.com/user-attachments/files/25465065/Controls.and.compliance.checklist.put.in.resume.pdf))**
+📄 **[Download Full Audit Report (PDF)]([Controls and compliance checklist(put in resume).pdf](Audit.pdf)**
 
 ---
 
