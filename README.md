@@ -12,7 +12,7 @@ Conducted a simulated internal network assessment in a controlled lab environmen
 This lab strengthened my understanding of network reconnaissance, packet analysis, and basic Linux command-line operations while reinforcing ethical testing practices.
 
 ### Virtual Lab Topology
-![Lab 1 Network Topology](<img width="1219" height="948" alt="Screenshot 2026-02-21 232233" src="https://github.com/user-attachments/assets/35c9351e-eb7e-490c-83d9-ad8c8a2c7c8c" />)
+![Lab 1 Network Topology](<img width="1219" height="948" alt="Image" src="https://github.com/user-attachments/assets/25cf55e6-3bf5-47b2-be35-2acfdf0e2799" />)
 
 
 📄 **[Download Full Lab Report (PDF)]([Assessing the Network with Common Security Tools (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465056/Assessing.the.Network.with.Common.Security.Tools.4e.-.Shoumya.Rayamajhi.pdf))**
