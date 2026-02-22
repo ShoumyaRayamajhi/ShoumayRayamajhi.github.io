@@ -28,7 +28,7 @@ The lab focused on detecting attack behavior and implementing defensive measures
 ### Virtual Lab Topology
 ![Lab 2 Network Topology](<img width="1173" height="809" alt="Screenshot 2026-02-21 233143" src="https://github.com/user-attachments/assets/12fcae38-9d7c-4255-9756-f67437aced66" />)
 
-📄 **[Download Full Lab Report (PDF)](reports/Lab2-Report.pdf)**
+📄 **[Download Full Lab Report (PDF)]([Defending the Network from a Simulated Attack (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465059/Defending.the.Network.from.a.Simulated.Attack.4e.-.Shoumya.Rayamajhi.pdf))**
 
 ---
 
