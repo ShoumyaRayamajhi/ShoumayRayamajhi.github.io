@@ -42,7 +42,7 @@ This lab strengthened my understanding of network architecture and secure segmen
 ![Lab 3 Network Topology](<img width="516" height="440" alt="Screenshot 2026-02-21 233532" src="https://github.com/user-attachments/assets/ef1264b9-7f16-47e4-ac8b-e60bf35199c6" />)
 
 
-📄 **[Download Full Lab Report (PDF)](reports/Lab3-Report.pdf)**
+📄 **[Download Full Lab Report (PDF)]([Designing a Secure Network Topology (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465063/Designing.a.Secure.Network.Topology.4e.-.Shoumya.Rayamajhi.pdf))**
 
 ---
 
