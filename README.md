@@ -1,4 +1,4 @@
-# Your Name  
+# Shoumya Rayamajhi 
 ## Cyber Security Portfolio  
 
 Welcome to my cybersecurity portfolio. Below are selected lab projects demonstrating network analysis, attack simulation, defense strategies, and security auditing.
