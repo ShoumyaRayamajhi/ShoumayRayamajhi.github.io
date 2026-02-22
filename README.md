@@ -26,7 +26,7 @@ Conducted a controlled attack-and-defense simulation within a lab environment to
 The lab focused on detecting attack behavior and implementing defensive measures to improve security posture.
 
 ### Virtual Lab Topology
-![Lab 2 Network Topology](<img width="1173" height="809" alt="Screenshot 2026-02-21 233143" src="https://github.com/user-attachments/assets/12fcae38-9d7c-4255-9756-f67437aced66" />)
+![Lab 2 Network Topology](Lab2.png)
 
 📄 **[Download Full Lab Report (PDF)]([Defending the Network from a Simulated Attack (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465059/Defending.the.Network.from.a.Simulated.Attack.4e.-.Shoumya.Rayamajhi.pdf))**
 
@@ -39,7 +39,7 @@ Designed and simulated a segmented enterprise-style network using GNS3 to model 
 This lab strengthened my understanding of network architecture and secure segmentation.
 
 ### Virtual Lab Topology
-![Lab 3 Network Topology](<img width="516" height="440" alt="Screenshot 2026-02-21 233532" src="https://github.com/user-attachments/assets/ef1264b9-7f16-47e4-ac8b-e60bf35199c6" />)
+![Lab 3 Network Topology](Lab3.png)
 
 
 📄 **[Download Full Lab Report (PDF)]([Designing a Secure Network Topology (4e) - Shoumya Rayamajhi.pdf](https://github.com/user-attachments/files/25465063/Designing.a.Secure.Network.Topology.4e.-.Shoumya.Rayamajhi.pdf))**
