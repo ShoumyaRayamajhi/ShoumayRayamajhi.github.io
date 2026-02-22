@@ -50,14 +50,15 @@ This lab strengthened my understanding of network architecture and secure segmen
 
 Conducted a structured internal security audit using a standardized assessment template to evaluate policies, configurations, and basic security controls. Identified potential risks and provided remediation recommendations to improve overall security posture.
 
-📄 **[Download Full Audit Report (PDF)](reports/Security-Audit-Report.pdf)**
+📄 **[Download Full Audit Report (PDF)]([Controls and compliance checklist(put in resume).pdf](https://github.com/user-attachments/files/25465065/Controls.and.compliance.checklist.put.in.resume.pdf))**
 
 ---
 
 # Contact Me  
 
-📧 Email: your.email@example.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
-💻 GitHub: https://github.com/yourusername  
+Email: its.shaw3@gmail.com 
+Phone: 945-246-0375
+Location: Irving, Tx
+
 
 I am actively seeking cybersecurity internship opportunities in network security, SOC analysis, and defensive security roles.
