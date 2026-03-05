@@ -56,7 +56,7 @@ Conducted a structured internal security audit using a standardized assessment t
 
 # Contact Me  
 
-Email: its.shaw3@gmail.com 
+Email: rayamajhi.shoumya@gmail.com 
 Phone: 945-246-0375
 Location: Irving, Tx
 
