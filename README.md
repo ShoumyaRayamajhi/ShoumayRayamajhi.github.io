@@ -5,7 +5,7 @@ Welcome to my cybersecurity portfolio. Below are selected lab projects demonstra
 
 ---
 
-# Lab 1: Internal Network Analysis  
+# Project 1: Internal Network Analysis  
 
 Conducted a simulated internal network assessment in a controlled lab environment to identify active hosts, open ports, and potential security exposures. Used Zenmap for host discovery and service enumeration, and Wireshark to capture and analyze live network traffic.  
 
@@ -19,7 +19,7 @@ This lab strengthened my understanding of network reconnaissance, packet analysi
 
 ---
 
-# Lab 2: Attack Simulation & Defense  
+# Project 2: Attack Simulation & Defense  
 
 Conducted a controlled attack-and-defense simulation within a lab environment to understand exploitation techniques and detection strategies. Used Metasploit to simulate exploitation scenarios, basic Linux commands to manage the environment, and Infection Monkey to model lateral movement and identify security gaps.  
 
@@ -32,7 +32,7 @@ The lab focused on detecting attack behavior and implementing defensive measures
 
 ---
 
-# Lab 3: Network Design & Segmentation  
+# Project 3: Network Design & Segmentation  
 
 Designed and simulated a segmented enterprise-style network using GNS3 to model multiple LANs and VLANs. Configured pfSense as a firewall and router to enforce segmentation and apply traffic control rules. Used Wireshark to capture and analyze traffic between VLANs, validating firewall policies and network isolation.  
 
@@ -46,7 +46,7 @@ This lab strengthened my understanding of network architecture and secure segmen
 
 ---
 
-# Internal Security Audit  
+# Project 4: Internal Security Audit  
 
 Conducted a structured internal security audit using a standardized assessment template to evaluate policies, configurations, and basic security controls. Identified potential risks and provided remediation recommendations to improve overall security posture.
 
